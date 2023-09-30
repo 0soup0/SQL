@@ -1,2 +1,2 @@
 DELETE FROM Student
-WHERE stu_name='�帣'
+WHERE stu_name='五福'
