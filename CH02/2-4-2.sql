@@ -1,3 +1,3 @@
 UPDATE Department
-SET Dep_head='Àî°²'
-WHERE Dep_name='ÙY¹ÜÏµ'
+SET Dep_head='æå®‰'
+WHERE Dep_name='è³‡ç®¡ç³»'
